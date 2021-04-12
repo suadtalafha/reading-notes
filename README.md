@@ -15,3 +15,10 @@
  I am Suad Talafha 23 years old , and I am renewable energy engineer graduated from  Al-Al bayt university 
  
  [read01](https://suadtalafha.github.io/reading-notes/)
+
+[growth mindsit]( https://suadtalafha.github.io/reading-notes/)
+
+[read01-learningmarkdown](https://suadtalafha.github.io/reading-notes/read01-learningmarkdown)
+
+[read03](https://suadtalafha.github.io/reading-notes/read03)
+
