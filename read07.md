@@ -1,4 +1,4 @@
-# Summury 
+# Summary 
 
 ## What makes computer , computer ?
 
