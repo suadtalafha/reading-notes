@@ -3,7 +3,7 @@
 
 **You can evaluate a situation by comparing one value in the script to what you expect it might be.**
 
-***( The result will be boolean : True \ False ) ***
+**( The result will be boolean : True \ False )**
 
 
 | == | != | === |!==
@@ -17,7 +17,7 @@
 
  # Logical Operator
 
-## Comparision operator usually return single valuse of  * True * or * False *
+## Comparision operator usually return single valuse of  *True* or *False*
 
 |**&&** | **Or** |**!** |
 |-------------------| ----------------- | ----------|
