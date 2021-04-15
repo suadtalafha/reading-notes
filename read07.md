@@ -1,4 +1,4 @@
-# Summury 
+# Summary 
 
 ## What makes computer , computer ?
 
@@ -57,7 +57,7 @@
 
 
 ![image](https://www.nutsvolts.com/uploads/articles/NV_0501_Byers_Large.jpg)
-
+ 
 
 
   
