@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+>>>>>>> 677b0122a05c371597a6d207176fdeb91831804b
 # Comparision operation 
 ## Evaluation conditions 
 

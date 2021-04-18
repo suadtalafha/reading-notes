@@ -72,6 +72,9 @@ specific task. If different parts of a script repeat the same task, you can
 reuse the function (rather than repeating the same set of st atements).
 
 
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFuR49yj6MIiLK-MvNSmXZLgi02BuIEysYGA&usqp=CAU.jpg)
+
+
  
 
 
