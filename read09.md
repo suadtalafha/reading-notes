@@ -4,17 +4,17 @@
 ## The introduction in JAVAScript 
 
 
-- **  A Script : is a series of instructions that a computer can follow one by one . **
+- ** A Script : is a series of instructions that a computer can follow one by one .**
 
-* ** The comment is to explain what the code does . **
+* **The comment is to explain what the code does .**
 
-* ** Variable : place to store data temporilly . **
+* ** Variable : place to store data temporilly .**
 
-* ** Before use a variable , you need to announce that you want to use it . **
+* ** Before use a variable , you need to announce that you want to use it .**
 
-* ** JavaScript make your web page more interactive by accessing and modifing content .**
+* **JavaScript make your web page more interactive by accessing and modifing content .**
 
-* ** JAVASCRIPT IS CASE SENSITIVE
+* **JAVASCRIPT IS CASE SENSITIVE
 JavaScript is case sensitive so hourNow means
 something different to HourNow or HOURNOW.**
 
@@ -51,7 +51,7 @@ React to events triggered by the user or browser .
 
 ## Expressions rely on things called *operators*; they allow programmers to create a single value from one or more values.
 
-* JavaScript contains the following mathematical
+*JavaScript contains the following mathematical
 operators, which you can use with numbers.
 You may remember some from math class.
 
