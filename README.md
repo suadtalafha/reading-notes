@@ -4,7 +4,8 @@
 | ---------------------------------------------------|------------------ |
 |[read03](https://suadtalafha.github.io/reading-notes/read03)| version content | 
 | [read04](https://suadtalafha.github.io/reading-notes/read04) | Growth midset | 
-| [read05](https://suadtalafha.github.io/reading-notes/read05) | Summury |
+| [read05](https://suadtalafha.github.io/reading-notes/read05) | Summary |
+| [read201](https://suadtalafha.github.io/reading-notes/read201) |Summary |
 
 
  
