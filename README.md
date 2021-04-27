@@ -2,6 +2,7 @@
 
 | link | description |
 | ---------------------------------------------------|------------------ |
+| Code 102 |
 |[read03](https://suadtalafha.github.io/reading-notes/read03)| version content | 
 | [read04](https://suadtalafha.github.io/reading-notes/read04) | Growth midset | 
 | [read05](https://suadtalafha.github.io/reading-notes/read05) | Summary |
@@ -18,6 +19,7 @@
 
 | link | description |
 | ------------------------------------------------------------- | ------------------------ |
+| Code 201 |
 | [read21](https://suadtalafha.github.io/reading-notes/read21) | Summary |
 | [read22](https://suadtalafha.github.io/reading-notes/read22) | summary |
 | [read23](https://suadtalafha.github.io/reading-notes/read23) | Summary |
