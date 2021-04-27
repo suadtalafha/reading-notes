@@ -23,7 +23,7 @@
 | [read21](https://suadtalafha.github.io/reading-notes/read21) | Summary |
 | [read22](https://suadtalafha.github.io/reading-notes/read22) | summary |
 | [read23](https://suadtalafha.github.io/reading-notes/read23) | Summary |
-
+| [read24](https://suadtalafha.github.io/reading-notes/read24) | Summary |
 
 
 
