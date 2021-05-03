@@ -26,6 +26,8 @@
 | [read24](https://suadtalafha.github.io/reading-notes/read24) | Summary |
 | [read25](https://suadtalafha.github.io/reading-notes/read25) | Summary |
 | [read26](https://suadtalafha.github.io/reading-notes/read26) | Summary |
+| [read27](https://suadtalafha.github.io/reading-notes/read27) |
+Summary |
 
  
 
