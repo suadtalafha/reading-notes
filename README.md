@@ -29,5 +29,7 @@
 | [read27](https://suadtalafha.github.io/reading-notes/read27) |
 Summary |
 
+ | [read28](https://suadtalafha.github.io/reading-notes/read28) |
+ | Summary |
  
 

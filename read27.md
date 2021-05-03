@@ -13,6 +13,8 @@ or column using the rowspan and colspan attributes.
 * For long tables you can split the table into a <thead>,
 <tbody>, and <tfoot>.
 
+
+
 ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL315sqDD_r9CKcEclX-uxlucJp-824rfmjg&usqp=CAU.jpg)
 
 
@@ -39,6 +41,8 @@ String, Number, Math, and Date. Their properties and
 methods offer functionality that help you write scripts.
 * Arrays and objects can be used to create complex data
 sets (and both can contain the other).
+
+
 
 
 ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFuR49yj6MIiLK-MvNSmXZLgi02BuIEysYGA&usqp=CAU.jpg)
