@@ -3,7 +3,7 @@
 
 * Whenever you want to c XX ollect information from
 visitors you will need a form, which lives inside a
-<form> element.
+`<form>` element.
 
 
 * Information from a form is sent in name/value pairs.
@@ -19,7 +19,7 @@ easier for visitors to fill in forms.
 # Summary
 ## Tables& Forms
 
-* In addition to the CSS p XX roperties covered in other
+* In addition to the CSS  properties covered in other
 chapters which work with the contents of all elements,
 there are several others that are specifically used to
 control the appearance of lists, tables, and forms.
