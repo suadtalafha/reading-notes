@@ -26,11 +26,8 @@
 | [read24](https://suadtalafha.github.io/reading-notes/read24) | Summary |
 | [read25](https://suadtalafha.github.io/reading-notes/read25) | Summary |
 | [read26](https://suadtalafha.github.io/reading-notes/read26) | Summary |
-| [read27](https://suadtalafha.github.io/reading-notes/read27) |
-Summary |
-
- | [read28](https://suadtalafha.github.io/reading-notes/read28) |
- | Summary |
- | [read29](https://suadtalafha.github.io/reading-notes/read29) |
- | Summary |
-
+| [read27](https://suadtalafha.github.io/reading-notes/read27) |Summary |
+| [read28](https://suadtalafha.github.io/reading-notes/read28) | Summary |
+ | [read29](https://suadtalafha.github.io/reading-notes/read29) | Summary |
+ | [read30](https://suadtalafha.github.io/reading-notes/read30) | Summary |
+ | [read31](https://suadtalafha.github.io/reading-notes/read31) | Summary |
