@@ -1,7 +1,7 @@
 # Summary
 ## Images
 
-* You can specify the dimensions o XX f images using CSS.
+* You can specify the dimensions of images using CSS.
 This is very helpful when you use the same sized
 images on several pages of your site.
 * Images can be aligned both horizontally and vertically
