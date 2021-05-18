@@ -32,3 +32,4 @@
  | [read30](https://suadtalafha.github.io/reading-notes/read30) | Summary |
  | [read31](https://suadtalafha.github.io/reading-notes/read31) | Summary |
 | [read32](https://suadtalafha.github.io/reading-notes/read32) | Summary |
+| [read33](https://suadtalafha.github.io/reading-notes/read33) | Summary |
