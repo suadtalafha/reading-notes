@@ -39,4 +39,4 @@
 
 | link | description |
 | ------------------------------------------------------------- | ------------------------ |
-| Code 301 - Intermediate Software Development |
+| Code 301 | - Intermediate Software Development- |
