@@ -1,8 +1,12 @@
-# I am Suad Talafha , 23 years old , renewable energy engineer from al al bayt university 
+# Reading Notes
+
+## This reading notes are summurization about different topics in programming in different levels in the course .
+
+
 
 | link | description |
 | ---------------------------------------------------|------------------ |
-| code | 101 |
+| code 102 | Intro to Software Development |
 |[read03](https://suadtalafha.github.io/reading-notes/read03)| version content | 
 | [read04](https://suadtalafha.github.io/reading-notes/read04) | Growth midset | 
 | [read05](https://suadtalafha.github.io/reading-notes/read05) | Summary |
@@ -19,7 +23,7 @@
 
 | link | description |
 | ------------------------------------------------------------- | ------------------------ |
-| code | 102 |
+| code 102 | Foundations of Software Development  |
 | [read21](https://suadtalafha.github.io/reading-notes/read21) | Summary |
 | [read22](https://suadtalafha.github.io/reading-notes/read22) | summary |
 | [read23](https://suadtalafha.github.io/reading-notes/read23) | Summary |
@@ -40,3 +44,10 @@
 | link | description |
 | ------------------------------------------------------------- | ------------------------ |
 | Code 301 | - Intermediate Software Development- |
+
+
+
+
+| link | description |
+| ------------------------------------------------------------- | ------------------------ |
+| Code 401 | - Advanced Software Development |
