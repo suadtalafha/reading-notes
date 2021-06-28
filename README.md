@@ -45,7 +45,7 @@
 | ------------------------------------------------------------- | ------------------------ |
 | Code 301 | - Intermediate Software Development- |
 | [Read301](https://suadtalafha.github.io/reading-notes/Read35) | React |
-
+|  [Read301](https://suadtalafha.github.io/reading-notes/read302) | lifecycle |
 
 
 | link | description |
