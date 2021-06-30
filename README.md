@@ -48,6 +48,10 @@
 |  [read302](https://suadtalafha.github.io/reading-notes/read302) | lifecycle |
 |  [read303](https://suadtalafha.github.io/reading-notes/read303) | Functions and props |
 |  [read304](https://suadtalafha.github.io/reading-notes/read304) | React and Forms |
+|  [read305](https://suadtalafha.github.io/reading-notes/read305) | Putting it all together |
+
+
+
 | link | description |
 | ------------------------------------------------------------- | ------------------------ |
 | Code 401 | - Advanced Software Development |
