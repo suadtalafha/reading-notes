@@ -49,7 +49,7 @@
 |  [read303](https://suadtalafha.github.io/reading-notes/read303) | Functions and props |
 |  [read304](https://suadtalafha.github.io/reading-notes/read304) | React and Forms |
 |  [read305](https://suadtalafha.github.io/reading-notes/read305) | Putting it all together |
-
+|  [read306](https://suadtalafha.github.io/reading-notes/read306) |  NODE.JS |
 
 
 | link | description |
