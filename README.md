@@ -52,6 +52,8 @@
 |  [read306](https://suadtalafha.github.io/reading-notes/read306) |  NODE.JS |
 |  [read307](https://suadtalafha.github.io/reading-notes/read307) | REST  |
 |  [read308](https://suadtalafha.github.io/reading-notes/read308) | API  |
+|  [read309](https://suadtalafha.github.io/reading-notes/read309) | Functional prograqmming concept  |
+
 
 | link | description |
 | ------------------------------------------------------------- | ------------------------ |
