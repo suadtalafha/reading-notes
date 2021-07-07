@@ -53,7 +53,7 @@
 |  [read307](https://suadtalafha.github.io/reading-notes/read307) | REST  |
 |  [read308](https://suadtalafha.github.io/reading-notes/read308) | API  |
 |  [read309](https://suadtalafha.github.io/reading-notes/read309) | Functional prograqmming concept  |
-
+|  [read310](https://suadtalafha.github.io/reading-notes/read310) |  In memory storage  |
 
 | link | description |
 | ------------------------------------------------------------- | ------------------------ |
