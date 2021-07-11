@@ -55,6 +55,8 @@
 |  [read309](https://suadtalafha.github.io/reading-notes/read309) | Functional prograqmming concept  |
 |  [read310](https://suadtalafha.github.io/reading-notes/read310) |  In memory storage  |
 |  [read311](https://suadtalafha.github.io/reading-notes/read311) | Authentication  |
+|  [read312](https://suadtalafha.github.io/reading-notes/read312) | nosql vs sql  |
+
 
 | link | description |
 | ------------------------------------------------------------- | ------------------------ |
