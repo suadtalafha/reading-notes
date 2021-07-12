@@ -56,7 +56,7 @@
 |  [read310](https://suadtalafha.github.io/reading-notes/read310) |  In memory storage  |
 |  [read311](https://suadtalafha.github.io/reading-notes/read311) | Authentication  |
 |  [read312](https://suadtalafha.github.io/reading-notes/read312) | nosql vs sql  |
-
+|  [read313](https://suadtalafha.github.io/reading-notes/read313) | CRUD |
 
 | link | description |
 | ------------------------------------------------------------- | ------------------------ |
