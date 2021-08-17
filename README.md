@@ -65,3 +65,5 @@
 | [read401-2](https://suadtalafha.github.io/reading-notes/read401-2)  | Review, Research, and Discussion |
 | [read401-3](https://suadtalafha.github.io/reading-notes/read401-3)  | Express |
 | [read401-4](https://suadtalafha.github.io/reading-notes/read401-4)  | Express REST API |
+| [read401-5](https://suadtalafha.github.io/reading-notes/read401-5)  |Data Modeling |
+ 
