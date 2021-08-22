@@ -67,3 +67,4 @@
 | [read401-4](https://suadtalafha.github.io/reading-notes/read401-4)  | Express REST API |
 | [read401-5](https://suadtalafha.github.io/reading-notes/read401-5)  | Data Modeling |
  | [read401-6](https://suadtalafha.github.io/reading-notes/read401-6)  | linkedin test |
+  | [read401-7](https://suadtalafha.github.io/reading-notes/read401-7)  | Authentication |
