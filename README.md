@@ -66,6 +66,7 @@
 | [read401-3](https://suadtalafha.github.io/reading-notes/read401-3)  | Express |
 | [read401-4](https://suadtalafha.github.io/reading-notes/read401-4)  | Express REST API |
 | [read401-5](https://suadtalafha.github.io/reading-notes/read401-5)  | Data Modeling |
- | [read401-6](https://suadtalafha.github.io/reading-notes/read401-6)  | linkedin test |
-  | [read401-7](https://suadtalafha.github.io/reading-notes/read401-7)  | Authentication |
-   | [read401-8](https://suadtalafha.github.io/reading-notes/read401-8)  | Bearer Authorization |
+| [read401-6](https://suadtalafha.github.io/reading-notes/read401-6)  | linkedin test |
+| [read401-7](https://suadtalafha.github.io/reading-notes/read401-7)  | Authentication |
+| [read401-8](https://suadtalafha.github.io/reading-notes/read401-8)  | Bearer Authorization |
+| [read401-9](https://suadtalafha.github.io/reading-notes/read401-9)  |ACL |
