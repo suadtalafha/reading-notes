@@ -71,3 +71,4 @@
 | [read401-8](https://suadtalafha.github.io/reading-notes/read401-8)  | Bearer Authorization |
 | [read401-9](https://suadtalafha.github.io/reading-notes/read401-9)  |ACL |
 | [read401-10](https://suadtalafha.github.io/reading-notes/read401-10)  | JWT |
+| [read401-11](https://suadtalafha.github.io/reading-notes/read401-11)  | stack |
