@@ -76,5 +76,5 @@
 | [read401-13](https://suadtalafha.github.io/reading-notes/read401-13)  | Event Driven Applications  |
 | [read401-14](https://suadtalafha.github.io/reading-notes/read401-14)  | queue  |
 | [read401-15](https://suadtalafha.github.io/reading-notes/read401-15)  | Event Driven Architecture |
- | [read401-16](https://suadtalafha.github.io/reading-notes/read401-16)  | Binary Tree Vs K-ary Trees
- |
+| [read401-16](https://suadtalafha.github.io/reading-notes/read401-16)  | Binary Tree Vs K-ary Trees|
+ | [read401-17](https://suadtalafha.github.io/reading-notes/read401-17)  | AWS |
