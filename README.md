@@ -80,3 +80,4 @@
 | [read401-17](https://suadtalafha.github.io/reading-notes/read401-17)  | AWS |
 | [read401-18](https://suadtalafha.github.io/reading-notes/read401-18)  | AWS: S3 and Lambda |
 | [read401-19](https://suadtalafha.github.io/reading-notes/read401-19)  | AWS |
+| [read401-20](https://suadtalafha.github.io/reading-notes/read401-20)  | AWS: Events |
