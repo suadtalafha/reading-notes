@@ -83,3 +83,4 @@
 | [read401-20](https://suadtalafha.github.io/reading-notes/read401-20)  | AWS: Events |
 | [read401-21](https://suadtalafha.github.io/reading-notes/read401-21)  | UI |
 | [read401-22](https://suadtalafha.github.io/reading-notes/read401-22)  | Hook |
+| [read401-23](https://suadtalafha.github.io/reading-notes/read401-23)  | Component Lifecycle  |
