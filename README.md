@@ -84,3 +84,4 @@
 | [read401-21](https://suadtalafha.github.io/reading-notes/read401-21)  | UI |
 | [read401-22](https://suadtalafha.github.io/reading-notes/read401-22)  | Hook |
 | [read401-23](https://suadtalafha.github.io/reading-notes/read401-23)  | Component Lifecycle  |
+| [read401-24](https://suadtalafha.github.io/reading-notes/read401-24)  | Advanced State with Reducers |
