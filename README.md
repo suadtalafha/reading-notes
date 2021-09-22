@@ -85,3 +85,4 @@
 | [read401-22](https://suadtalafha.github.io/reading-notes/read401-22)  | Hook |
 | [read401-23](https://suadtalafha.github.io/reading-notes/read401-23)  | Component Lifecycle  |
 | [read401-24](https://suadtalafha.github.io/reading-notes/read401-24)  | Advanced State with Reducers |
+| [read401-25](https://suadtalafha.github.io/reading-notes/read401-25)  | Hash Tables |
