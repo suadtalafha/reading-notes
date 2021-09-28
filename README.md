@@ -88,3 +88,4 @@
 | [read401-25](https://suadtalafha.github.io/reading-notes/read401-25)  | Hash Tables |
 | [read401-26](https://suadtalafha.github.io/reading-notes/read401-26)  |Context API |
 | [read401-27](https://suadtalafha.github.io/reading-notes/read401-27)  | Context API - Behaviors |
+| [read401-28](https://suadtalafha.github.io/reading-notes/read401-28)  | login and auth |
