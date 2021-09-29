@@ -89,3 +89,5 @@
 | [read401-26](https://suadtalafha.github.io/reading-notes/read401-26)  |Context API |
 | [read401-27](https://suadtalafha.github.io/reading-notes/read401-27)  | Context API - Behaviors |
 | [read401-28](https://suadtalafha.github.io/reading-notes/read401-28)  | login and auth |
+| [read401-29](https://suadtalafha.github.io/reading-notes/read401-29)  | API Integration |
+| [read401-30](https://suadtalafha.github.io/reading-notes/read401-30)  | Graphs |
