@@ -91,3 +91,4 @@
 | [read401-28](https://suadtalafha.github.io/reading-notes/read401-28)  | login and auth |
 | [read401-29](https://suadtalafha.github.io/reading-notes/read401-29)  | API Integration |
 | [read401-30](https://suadtalafha.github.io/reading-notes/read401-30)  | Graphs |
+| [read401-31](https://suadtalafha.github.io/reading-notes/read401-31)  | Application State with Redux |
